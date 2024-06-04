@@ -30,5 +30,3 @@ _As a reminder, do **NOT** use or fund the accounts/keys provided by the hardhat
 
 In a separate terminal run:
 `npx hardhat run scripts/deploy.js --network localhost`
-
-![](assets/crcaonsepolia.jpeg)
